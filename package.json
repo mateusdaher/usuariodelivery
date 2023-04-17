@@ -1,0 +1,16 @@
+{
+  "name": "usuariodelivery",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Exemplo de aplicação de cliente servidor delivery por nome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "contato.mateusdaher@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
